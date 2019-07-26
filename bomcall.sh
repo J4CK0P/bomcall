@@ -15,7 +15,7 @@ echo "\033[36;1m★""\033[34;1mSANTUY HACKER TEAM""\033[36;1m★"
 sleep 1
 echo "\033[35;1m1.""\033[36;1mGrab"
 echo "\033[35;1m2.""\033[36;1mTokopedia"
-echo "\033[35;1m3.""\033[36;1mGrab"
+echo "\033[35;1m3.""\033[36;1mCostume"
 echo "\033[37;1m4.""\033[30;1mInformasi Tool Ini"
 echo "\033[31;1m0. Keluar"
 echo "\033[33;1m Pilih Angka:"
