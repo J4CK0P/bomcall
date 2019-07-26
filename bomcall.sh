@@ -30,6 +30,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mJ4CKOP"
 sleep 5
 clear
+cd bomcall/hei
 php 1.php
 fi
 
@@ -43,6 +44,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
 sleep 5
 clear
+cd bomcall/hei
 php 2.php
 fi
 
@@ -74,7 +76,7 @@ sleep 1
 
 echo "\033[30;1m tunggu 8 detik"
 sleep 8
-
+cd bomcall
 sh bomcall.sh
 fi
 
