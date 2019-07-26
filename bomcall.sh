@@ -62,7 +62,7 @@ echo "\033[31;1mAuthor:""\033[37;1mSHT"
 sleep 5
 clear
 cd $HOME/bomcall/hei
-python2 costum.py
+python costum.py
 fi
 
 if
