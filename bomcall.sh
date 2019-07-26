@@ -25,9 +25,10 @@ then
 clear
 echo "\033[36;1m"
 figlet "Grab"
-echo "\033[31;1mJenis Spam:""\033[37;1mTelepon"
+echo "\033[31;1mJenis Spam:""\033[37;1mSms"
+
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
-echo "\033[31;1mPemograman:""\033[37;1mPHP"
+echo "\033[31;1mPemograman:""\033[37;1mPYTHON2"
 echo "\033[31;1mAuthor:""\033[37;1mJ4CKOP"
 sleep 5
 clear
