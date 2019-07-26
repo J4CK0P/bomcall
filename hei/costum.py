@@ -25,7 +25,7 @@ class Gratis:
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 		;           Sms Gratis         ;
 		;           By: J4CKOP.        ;
-    ; Gunain Dengan Bijak Zeyeng 😘;
+                ; Gunain Dengan Bijak Zeyeng 😘;
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 		""")
 		print("[!] Status Server: "+tess)
