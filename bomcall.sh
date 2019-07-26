@@ -15,7 +15,8 @@ echo "\033[36;1m★""\033[34;1mSANTUY HACKER TEAM""\033[36;1m★"
 sleep 1
 echo "\033[35;1m1.""\033[36;1mGrab"
 echo "\033[35;1m2.""\033[36;1mTokopedia"
-echo "\033[37;1m3.""\033[30;1mInformasi Tool Ini"
+echo "\033[35;1m3.""\033[36;1mGrab"
+echo "\033[37;1m4.""\033[30;1mInformasi Tool Ini"
 echo "\033[31;1m0. Keluar"
 echo "\033[33;1m Pilih Angka:"
 read mrrm
@@ -50,9 +51,22 @@ cd $HOME/bomcall/hei
 php 2.php
 fi
 
+if [ $mrrm = 3 ] || [ $mrrm = 3 ]
+then
+clear
+toilet -f mono9 -F gay "Costum"
+echo "\033[31;1mJenis Spam:""\033[37;1mSms"
+echo "\033[31;1mBatas:""\033[37;1mSms Gratis"
+echo "\033[31;1mPemograman:""\033[37;1mPython2"
+echo "\033[31;1mAuthor:""\033[37;1mSHT"
+sleep 5
+clear
+cd $HOME/bomcall/hei
+python2 costum.py
+fi
 
 if
-[ $mrrm = 3 ] || [ $mrrm = 3 ]
+[ $mrrm = 4 ] || [ $mrrm = 4 ]
 then
 clear
 toilet -f slant --gay "LiteSpam"
