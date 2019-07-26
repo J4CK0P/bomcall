@@ -29,7 +29,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mJ4CKOP"
 sleep 5
 clear
-cd $HOME/J4CK0P/bomcall
+
 php 1.php
 fi
 
