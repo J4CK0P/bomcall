@@ -48,4 +48,4 @@ for x in range(jum):
     jobs.append(x)
 p=ThreadPool(5)
 p.map(main,jobs)
-print("done ^•^")
+print("done ZEYENG 😘")
