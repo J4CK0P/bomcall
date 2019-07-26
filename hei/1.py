@@ -19,11 +19,11 @@ except ModuleNotFoundError:
 try:
 	os.system('clear')
 	print("""\033[1;32m
-   _  _     \033[1;36mSPAM SMS (GRAB) UNLIMITED\033[1;32m
- _| || |_   \033[1;31mAuthor : J4CKOP\033[1;32m
-|_  ..  _|  \033[1;31mContact : Fb : Azis Wirahadi\033[1;32m
-|_      _|  \033[1;31mgithub : https://github.com/J4CK0P\033[1;32m
-  |_||_| 
+ (+_+)  \033[1;36mSPAM SMS (GRAB) UNLIMITED\033[1;32m
+/(• •)\  \033[1;31mAuthor : J4CKOP\033[1;32m
+ ( ' )    \033[1;31mContact : Fb : Azis Wirahadi\033[1;32m
+ () ()     \033[1;31mgithub : https://github.com/J4CK0P\033[1;32m
+ _. ._
 """)
 	no = input("\033[1;37m[?] NOMOR (Pakai 62 Gan) =>\033[1;36m ")
 	jum=int(input("\033[1;37m[?] Jumlah => \033[1;36m"))
