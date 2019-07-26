@@ -6,9 +6,9 @@ chmod +x ./install
 apt install ./smsid_1.1_all.deb
 clear
 
-toilet -f slant --gay "LiteSpam"
+toilet -f slant --gay "SpamCall"
 sleep 1
-echo "\033[33;1m Macam-macam tool untuk spam"
+echo "\033[33;1m tool untuk spam"
 sleep 1
 echo "\033[36;1m★""\033[34;1mSANTUY HACKER TEAM""\033[36;1m★"
 sleep 1
@@ -30,7 +30,7 @@ echo "\033[31;1mAuthor:""\033[37;1mJ4CKOP"
 sleep 5
 clear
 cd $HOME/J4CK0P/bomcall
-php Tools.php
+php 1.php
 fi
 
 if
@@ -61,7 +61,7 @@ sleep 1
 echo "\033[30;1m tunggu 8 detik"
 sleep 8
 
-sh bommcall.sh
+sh bomcall.sh
 fi
 
 
