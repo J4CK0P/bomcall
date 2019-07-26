@@ -4,6 +4,7 @@ git clone https://github.com/amsitlab/smsid-java.git
 cd ./smsid-java
 chmod +x ./install
 apt install ./smsid_1.1_all.deb
+pip install requests mechanize bs4
 clear
 
 toilet -f slant --gay "SpamCall"
@@ -31,7 +32,7 @@ echo "\033[31;1mAuthor:""\033[37;1mJ4CKOP"
 sleep 5
 clear
 cd $HOME/bomcall/hei
-php 1.php
+python2 1.py
 fi
 
 if [ $mrrm = 2 ] || [ $mrrm = 2 ]
