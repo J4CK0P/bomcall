@@ -12,8 +12,9 @@ echo "\033[33;1m tool untuk spam"
 sleep 1
 echo "\033[36;1m★""\033[34;1mSANTUY HACKER TEAM""\033[36;1m★"
 sleep 1
-echo "\033[35;1m1""\033[36;1mGrab"
-echo "\033[37;1m2.""\033[30;1mInformasi Tool Ini"
+echo "\033[35;1m1.""\033[36;1mGrab"
+echo "\033[35;1m2.""\033[36;1mTokopedia"
+echo "\033[37;1m3.""\033[30;1mInformasi Tool Ini"
 echo "\033[31;1m0. Keluar"
 echo "\033[33;1m Pilih Angka:"
 read mrrm
@@ -29,12 +30,25 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mJ4CKOP"
 sleep 5
 clear
-
 php 1.php
 fi
 
+if [ $mrrm = 2 ] || [ $mrrm = 2 ]
+then
+clear
+toilet -f mono9 -F gay "Toked"
+echo "\033[31;1mJenis Spam:""\033[37;1mTelepon"
+echo "\033[31;1mBatas:""\033[37;1m1 Kali"
+echo "\033[31;1mPemograman:""\033[37;1mPHP"
+echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
+sleep 5
+clear
+php 2.php
+fi
+
+
 if
-[ $mrrm = 2 ] || [ $mrrm = 2 ]
+[ $mrrm = 3 ] || [ $mrrm = 3 ]
 then
 clear
 toilet -f slant --gay "LiteSpam"
